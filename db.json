@@ -1,0 +1,48 @@
+{
+  "holidays": [
+    {
+      "date": "01.01",
+      "name": "New Year"
+    },
+    {
+      "date": "07.01",
+      "name": "Orthodox Christmas"
+    },
+    {
+      "date": "14.02",
+      "name": "My Birthday))), Valentine's day"
+    },
+    {
+      "date": "23.02",
+      "name": "Day of the Defender of Fatherland"
+    },
+    {
+      "date": "08.03",
+      "name": "International women's day"
+    },
+    {
+      "date": "01.05",
+      "name": "Spring and Labor Day- May"
+    },
+    {
+      "date": "09.05",
+      "name": "Victory Day"
+    },
+    {
+      "date": "03.07",
+      "name": "Independence day"
+    },
+    {
+      "date": "07.11",
+      "name": "Spring and Labor Day- May"
+    },
+    {
+      "date": "31.12",
+      "name": "New Year"
+    },
+    {
+      "date": "25.12",
+      "name": "Catholic Christmas"
+    }
+  ]
+}
